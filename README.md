@@ -1,6 +1,6 @@
 # Revyv
 
-Compositing display server and web browser client. Uses OpenGL textures for window compositing, ZeroMQ for IPC and SDL for input handling.
+Compositing display server and web browser client. The compositor uses OpenGL textures for window compositing, ZeroMQ for IPC and SDL for input handling. The web browser client is based on CEF (Chromium Embedded Framework).
 
 **compositor**
 
