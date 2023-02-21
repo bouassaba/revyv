@@ -1,0 +1,8 @@
+{
+    "cmake.buildDirectory": "${workspaceRoot}/build/${buildType}",
+    "files.associations": {
+      "algorithm": "cpp",
+      "memory": "cpp",
+      "csignal": "cpp"
+    },
+}

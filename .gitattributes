@@ -1,0 +1,4 @@
+vendor/** linguist-detectable=false
+webbrowser/tools/** linguist-detectable=false
+webbrowser/cmake/** linguist-detectable=false
+thirdparty/** linguist-detectable=false
